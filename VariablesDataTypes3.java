@@ -21,7 +21,9 @@ public class VariablesDataTypes3 {
         boolean b = true; // boolean
         byte by = 10; // byte
         short s = 100; // short integer
-        
+        String str = "Hello World"; // string
+
+
         System.out.println("Primitive data types examples");
         System.out.println("Integer: "+i);
         System.out.println("Float: "+f);
@@ -31,5 +33,9 @@ public class VariablesDataTypes3 {
         System.out.println("Boolean: "+b);
         System.out.println("Byte: "+by);
         System.out.println("Short: "+s);
+        System.out.println("String: "+str);
+
+        // concatenation
+        System.out.println("Concatenation: "+(15+5)+i+f);
     }
 }
