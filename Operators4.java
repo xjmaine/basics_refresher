@@ -1,7 +1,6 @@
 package java_tutorials;
-public package java_tutorials;
 
-class Operators4 {
+public class Operators4 {
 
     public static void main(String[] args) {
         // operators in java are used to perform operations on variables and values (e.g. +, -, *, /, %, etc.)
