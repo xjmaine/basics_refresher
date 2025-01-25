@@ -1,0 +1,23 @@
+1. introduction to java and how it works
+2. Classes and Objects
+3. methods in Java (code reusability)
+4. Operators
+5. Loops
+6. Arrays
+7. Encapsulation
+8. Inheritance
+9. Polymorphism
+10. Abstraction
+11. Interfaces
+12. Exception Handling
+13. Collections (List, Set, Map)
+14. File Handling
+15. Multithreading
+16. Serialization
+17. Networking
+18. Reflection
+19. Generics
+20. Annotations
+21. Java Features (8, 11, 17, 20)
+The above list covers the key concepts of Java programming, including classes and objects, methods, operators,class Path {
+    
