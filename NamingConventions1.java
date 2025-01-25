@@ -28,7 +28,13 @@ public class NamingConventions1 {
         // 3. Identifiers can contain letters, digits, underscores, and dollar signs
         // 4. Identifiers should not start with a digit
         // 5. Identifiers should not be a reserved keyword (e.g. int, double, String, public, class, static, void, etc.)
-        
+
+        // Java naming standards
+        // 1. teh first character of a class should be capitalized (nouns)
+        // 2. the first character of a method should be lowercase, then camelCase (verbs)
+        // 3. the first character of a variable should be lowercase, then camelCase (nouns)
+        //4. the first character of an interface should be capitalised, then camelCase (
+
     }
     
 }
